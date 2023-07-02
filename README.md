@@ -1,6 +1,6 @@
 # circular_clipper_test
 
-A new Flutter project.
+ဓါတ်ပုံကို Custom Clip ထဲ ထည့်တဲ့နည်း
 
 ## Getting Started
 
